@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c422b67a-cbd8-4afb-822d-096f610fa8b6" name="Changes" comment="Ridge regression done" />
+    <list default="true" id="c422b67a-cbd8-4afb-822d-096f610fa8b6" name="Changes" comment="Ridge regression done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regularization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regularization.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774778056755</updated>
       <workItem from="1774778057843" duration="3430000" />
-      <workItem from="1774876683741" duration="302000" />
+      <workItem from="1774876683741" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
